@@ -1,0 +1,116 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+
+.home {
+
+}
+
+.conjunto {
+    height: 652px;
+    width: 100%;
+    background-image: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),url(img/desmatamento2.jpg);
+    background-size: cover;
+    background-position: center;
+    position: absolute;
+}
+
+.form {
+    width: 380px;
+    height: 480px;
+    position: relative;
+    margin: 6% auto;
+    background: #ddffcc;
+    padding: 4px;
+    overflow: hidden;
+    border-radius: 10px;
+}
+
+.botao-form {
+    width: 220px;
+    margin: 35px auto;
+    position: relative;
+    box-shadow: 0 0 20px 9px #ff61241f;
+    border-radius: 30px;
+}
+
+.btn {
+    padding: 10px 30px;
+    cursor: pointer;
+    background: transparent;
+    border: none;
+    outline: none;
+    position: relative;
+}
+
+#btn-p {
+    top: 0;
+    left: 0;
+    position: absolute;
+    width: 110px;
+    height: 100%;
+    background: linear-gradient(to right, #7aeb34, #43eb34);
+    border-radius: 30px;
+    transition: 0.5s;
+}
+
+
+.botao-g {
+    top: 180px;
+    position: absolute;
+    width: 280px;
+}
+
+.bt {
+    width: 100%;
+    padding: 10px 0;
+    margin: 5px 0;
+    border-left: 0;
+    border-top: 0;
+    border-right: 0;
+    border-bottom: 1px solid #999;
+    outline: none;
+    background: transparent;
+    
+}
+
+.enviar {
+    width: 85%;
+    padding: 10px 30px;
+    cursor: pointer;
+    display: block;
+    margin: 35px auto;
+    background: linear-gradient(to right, #9ceb34, #34eb37);
+    border: none;
+    border-radius: 30px;
+}
+
+.enviar a {
+    text-decoration: none;
+    color: black;
+}
+
+#login {
+    left: 50px;
+    
+}
+
+#registrar {
+    left: 450px;
+    
+}
+
+.esqueceu a {
+    text-decoration: none;
+    color: red;
+    
+}
+.esqueceu a:hover {
+    text-decoration: underline;
+    
+}
+
+

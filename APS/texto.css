@@ -1,0 +1,126 @@
+body{
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
+
+#box1{
+  height: 100vh;
+  width: 100%;
+  background-image: url(img/floresta.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+  display: table;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#box1 h1 {
+  font-size: 60px;
+}
+
+#box2{
+  height: 50vh;
+  background: linear-gradient(to right top,) fixed;
+  width: 100%;
+  display: table;
+  padding: 40px 0;
+}
+
+ h3 {
+   margin-left: 400%;
+
+}
+
+#box3{
+  height: 60vh;
+  width: 100%;
+  background-image: url(img/desmatamento1.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+  display: table;
+  color: white;
+  text-shadow: 0.5;
+}
+
+#box4{
+  height: 60vh;
+  width: 100%;
+  background-image: url(img/usar4.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+  display: table;
+  color: white;
+  text-shadow: 0.5;
+}
+
+
+#box5{
+  height: 60vh;
+  width: 100%;
+  background-image: url(img/usar10.png);
+  background-size: cover;
+  background-attachment: fixed;
+  display: table;
+  color: white;
+  text-shadow: 0.5;
+}
+
+
+p{
+  font-family: 'Open Sans', sans-serif;
+  color: black;
+  vertical-align: middle;
+  text-align: center;
+  display: table-cell;
+  padding: 50px 50px;
+}
+
+
+h1{
+  font-size: 70px;
+  font-family: 'Open Sans', sans-serif;
+  vertical-align: middle;
+  text-align: center;
+  display: table-cell;
+  color: white;
+}
+
+
+footer hr {
+  border: 1px solid black;
+  margin: 0;
+  left: 0;
+  width: 100%;
+}
+
+
+footer #conteudo2 {
+  margin-right: -50%;
+  justify-content: center;
+  padding-left: 500px;
+
+}
+
+footer ul {
+  list-style: none;
+  text-align: center;
+}
+
+footer ul li {
+  list-style: none;
+  display: inline-block;
+  padding: 25px;
+  text-align: center;
+}
+
+footer ul li a {
+  text-align: center;
+  text-decoration: none;
+  color: #111111;
+  display:  inline-block;
+  text-transform: uppercase;
+  font-weight: lighter;
+  font-size: 21px;
+  padding: 0 8px;
+}

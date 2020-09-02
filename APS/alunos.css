@@ -1,0 +1,21 @@
+body {
+    background-image: url(img/fundo2.png);
+}
+#box1 {
+    margin-top: 50px;
+    position: absolute;
+    margin-left: 30px;
+}
+
+.jumbotron {
+    height:100%;
+    width:100%;
+    display: flex;
+    align-items: center;
+}
+.container {
+    width:1025px;
+  }
+.jumbotron .container {
+    max-width: 100%;
+} 

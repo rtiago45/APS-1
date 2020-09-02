@@ -1,0 +1,48 @@
+.conteudo {
+    margin-top: 50%;
+    height: 100vh;
+    width: 100%;
+    position: absolute;
+    background-color: white;
+}
+
+.algo {
+  background: white;
+  width: 100%;
+  height: 100%;
+}
+
+section article button a {
+  text-decoration: none;
+}
+
+
+
+#box1 {
+	width:100%;
+	background: white;
+	display:table;
+	background-attachment:fixed;
+}
+
+.container {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+#unip {
+  margin-top: 96.7%;
+  background-color: #fff;
+}
+
+#conteudo2 footer hr {
+  margin-top: 0%;
+  border: 1px solid black;
+}
+
+
+#conteudo2 footer p {
+  margin-top: 0%;
+  text-align: center;
+  background: #fff;
+}
